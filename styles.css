@@ -1,0 +1,34 @@
+body {
+    font-family: 'roboto', sans-serif;
+    display: flex;
+    flex-direction: column;
+}
+
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.top {
+    display: flex;
+    justify-content: space-around;
+}
+
+.middle {
+    display: flex;
+}
+
+.bottom {
+    display: flex;
+}
+
+.links {
+    display: flex;
+    gap: 15px;
+}
+
+.top-content {
+    display: flex;
+    flex-direction: column;
+}
